@@ -1,4 +1,4 @@
-🐾 PetMoments – Share Your Pet’s Cutest Moments
+🐾 **PetMoments – Share Your Pet’s Cutest Moments**
 
 An elegant, feature-packed Android app built in Kotlin that lets users share and explore adorable pet photos — inspired by Instagram’s simplicity and design.
 
@@ -8,8 +8,7 @@ PetMoments lets pet lovers capture, upload, and scroll through photos of their f
 
 Every post includes a photo, caption, category, and interactive likes — all stored locally for a smooth offline experience.
 
-✨ Core Features
-
+ **🚀 Core Features**
 
 🏠 Feed – A scrollable home feed showing all uploaded pet posts, newest first.
 
@@ -22,7 +21,7 @@ Every post includes a photo, caption, category, and interactive likes — all st
 🎨 Beautiful UI – Clean, Instagram-inspired Material Design 3 interface.
 
 
-🌟 Extra Highlights
+**🌟 Extra Highlights**
 
 🐶 Category Filter – View posts by pet type (Dog, Cat, Bird, Rabbit, Other).
 
@@ -35,9 +34,9 @@ Every post includes a photo, caption, category, and interactive likes — all st
 ⚡ Material 3 Components – Smooth, modern visuals and interactions.                             
 
 
- 📦 Libraries Used
-
- // Core Android
+ **📚 Libraries Used**
+ 
+// Core Android
 androidx.core:core-ktx:1.12.0
 androidx.appcompat:appcompat:1.6.1
 com.google.android.material:material:1.11.0
