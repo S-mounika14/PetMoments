@@ -9,6 +9,7 @@ Every post includes a photo, caption, category, and interactive likes — all st
 
  
  **🚀 Core Features**
+
 🏠 Feed – A scrollable home feed showing all uploaded pet posts, newest first.
 
 🐾 Upload Post – Add a photo (from gallery or camera), caption, hashtags, and pet category.
@@ -22,6 +23,7 @@ Every post includes a photo, caption, category, and interactive likes — all st
 
 
 **🌟 Extra Highlights**
+
 🐶 Category Filter – View posts by pet type (Dog, Cat, Bird, Rabbit, Other).
 
 🧑‍🎨 Random Avatars – Emoji-style avatars for fun user identity.
