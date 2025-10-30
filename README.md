@@ -64,4 +64,3 @@ com.github.bumptech.glide:glide:4.16.0
 org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3
 
 
-https://github.com/S-mounika14/PetMoments/blob/01343b816b932e786954201833a767fefade2407/Screenshot_20251030_192434_PetMoments.jpg
