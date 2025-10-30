@@ -4,14 +4,21 @@ An elegant, feature-packed Android app built in Kotlin that lets users share and
 
 📸 Overview
 
-PetMoments lets pet lovers capture, upload, and scroll through photos of their furry friends. Every post includes a photo, caption, category, and interactive likes — all stored locally for a smooth offline experience.
+PetMoments lets pet lovers capture, upload, and scroll through photos of their furry friends. 
+
+Every post includes a photo, caption, category, and interactive likes — all stored locally for a smooth offline experience.
 
 ✨ Core Features
 
+
 🏠 Feed – A scrollable home feed showing all uploaded pet posts, newest first.
+
 🐾 Upload Post – Add a photo (from gallery or camera), caption, hashtags, and pet category.
+
 ❤️ Like System – Toggle likes in real-time with updated like counts.
+
 💾 Persistent Storage – Posts saved locally with Room Database, available even after restarts.
+
 🎨 Beautiful UI – Clean, Instagram-inspired Material Design 3 interface.
 
 
