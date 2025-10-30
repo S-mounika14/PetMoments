@@ -21,7 +21,8 @@ PetMoments lets pet lovers capture, upload, and scroll through photos of their f
 
 
  📦 Libraries Used
-// Core Android
+
+ // Core Android
 androidx.core:core-ktx:1.12.0
 androidx.appcompat:appcompat:1.6.1
 com.google.android.material:material:1.11.0
