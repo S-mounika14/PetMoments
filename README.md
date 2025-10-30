@@ -8,6 +8,7 @@ PetMoments lets pet lovers capture, upload, and scroll through photos of their f
 Every post includes a photo, caption, category, and interactive likes — all stored locally for a smooth offline experience.
 
  
+ 
  **🚀 Core Features**
 
 🏠 Feed – A scrollable home feed showing all uploaded pet posts, newest first.
@@ -19,6 +20,7 @@ Every post includes a photo, caption, category, and interactive likes — all st
 💾 Persistent Storage – Posts saved locally with Room Database, available even after restarts.
 
 🎨 Beautiful UI – Clean, Instagram-inspired Material Design 3 interface.
+
 
 
 
@@ -35,6 +37,7 @@ Every post includes a photo, caption, category, and interactive likes — all st
 ⚡ Material 3 Components – Smooth, modern visuals and interactions.                             
 
 
+ 
  **📚 Libraries Used**
  
 // Core Android
