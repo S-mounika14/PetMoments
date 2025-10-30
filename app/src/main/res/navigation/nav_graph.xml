@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/feedFragment">
+
+    <fragment
+        android:id="@+id/feedFragment"
+        android:name="com.chirag.petmoments.FeedFragment"
+        android:label="Feed" />
+
+    <fragment
+        android:id="@+id/uploadFragment"
+        android:name="com.chirag.petmoments.UploadFragment"
+        android:label="Upload">
+
+        <action
+            android:id="@+id/action_uploadFragment_to_feedFragment"
+            app:destination="@id/feedFragment"
+            app:popUpTo="@id/feedFragment"
+            app:popUpToInclusive="false" />
+    </fragment>
+
+</navigation>

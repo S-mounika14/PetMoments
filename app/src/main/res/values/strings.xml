@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PetMoments</string>
+    <string name="title_feed">Feed</string>
+    <string name="title_upload">Upload</string>
+</resources>
